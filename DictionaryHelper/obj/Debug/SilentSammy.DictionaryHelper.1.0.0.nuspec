@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SilentSammy.DictionaryHelper</id>
+    <version>1.0.0</version>
+    <authors>SilentSammy</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/SilentSammy/DictionaryHelper</projectUrl>
+    <description>Collection of methods (such as merge, translate, etc) for use with dictionaries in .NET.
+Also includes an ObservableDictionary, and a ReadOnlyObservableDictionary class for triggering events when a dictionary is modified.</description>
+    <repository url="https://github.com/SilentSammy/DictionaryHelper" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\bin\Debug\netstandard2.0\DictionaryHelper.dll" target="lib\netstandard2.0\DictionaryHelper.dll" />
+  </files>
+</package>

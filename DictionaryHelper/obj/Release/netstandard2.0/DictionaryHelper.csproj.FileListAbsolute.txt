@@ -1,0 +1,9 @@
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\bin\Release\netstandard2.0\DictionaryHelper.deps.json
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\bin\Release\netstandard2.0\DictionaryHelper.dll
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\bin\Release\netstandard2.0\DictionaryHelper.pdb
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.csprojAssemblyReference.cache
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.AssemblyInfoInputs.cache
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.AssemblyInfo.cs
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.csproj.CoreCompileInputs.cache
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.dll
+C:\Users\scabr\source\repos\DictionaryHelper\DictionaryHelper\obj\Release\netstandard2.0\DictionaryHelper.pdb

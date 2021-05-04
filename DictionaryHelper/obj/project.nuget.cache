@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/F9KST8RWWuO9WiwZCtp+N5jfOvNtq5KRYUaCNb++YHj9iQZM4On2kXs2NQVQ+Abty9GpWFjmEMwyiOpRQ3CLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\scabr\\source\\repos\\DictionaryHelper\\DictionaryHelper\\DictionaryHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\scabr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\scabr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
