@@ -131,7 +131,7 @@ namespace DictionaryHelper
             Values = InnerDict.Values;
         }
 
-        public override void Add(KeyValuePair<T1, T2> item) => dict.Remove(item);
+        public override void Add(KeyValuePair<T1, T2> item) => dict.Add(item);
         public override bool Remove(KeyValuePair<T1, T2> item) => dict.Remove(item);
         public override void Clear() => dict.Clear();
     }
