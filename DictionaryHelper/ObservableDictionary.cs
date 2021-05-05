@@ -17,7 +17,7 @@ namespace DictionaryHelper
         public event NotifyCollectionChangedEventHandler CollectionChanged;
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnCollectionChanged(NotifyCollectionChangedEventArgs e) => CollectionChanged?.Invoke(this, e);
-        protected void OnPropertyChanged(string propName) => PropertyChanged.Invoke(this, new PropertyChangedEventArgs(propName));
+        protected void OnPropertyChanged(string propName) => PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propName));
 
         // IDictionary interface
         public abstract bool IsReadOnly { get; }

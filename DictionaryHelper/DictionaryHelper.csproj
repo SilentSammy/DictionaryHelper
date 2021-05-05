@@ -8,6 +8,7 @@
 Also includes an ObservableDictionary, and a ReadOnlyObservableDictionary class for triggering events when a dictionary is modified.</Description>
     <PackageProjectUrl>https://github.com/SilentSammy/DictionaryHelper</PackageProjectUrl>
     <RepositoryUrl>https://github.com/SilentSammy/DictionaryHelper</RepositoryUrl>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>
